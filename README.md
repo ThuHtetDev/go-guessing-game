@@ -1,4 +1,4 @@
-# go-guessing-game
+# go-guessing-game (Go)
 A Small Recursive Guessing Game By Golang
 
 - clone This repon on your machine
